@@ -5,7 +5,7 @@ import Translate from "./components/translate";
 import Languages from "./components/languages";
 
 export default function App() {
-  const [language, setLanguage] = useState("es");
+  const [language, setLanguage] = useState("ar");
   const [text, setText] = useState("");
 
   return (
