@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 ## Description
-A React app that lets you translate text from English to 11 different languages.
+A React app that lets you translate text from English to 20 different languages.
 
 ## Acknowledgments
 This project is made possible by:
