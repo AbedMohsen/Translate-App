@@ -1,4 +1,4 @@
-# Translate-App
+# Translate App
 Created with CodeSandbox
 
 ## Description
